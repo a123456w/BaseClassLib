@@ -6,6 +6,8 @@ import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
 import com.android.qizx.baselibrary.R;
+import com.aspsine.swipetoloadlayout.SwipeLoadMoreTrigger;
+import com.aspsine.swipetoloadlayout.SwipeTrigger;
 
 
 /**

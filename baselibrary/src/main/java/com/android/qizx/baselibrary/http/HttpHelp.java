@@ -4,11 +4,11 @@ package com.android.qizx.baselibrary.http;
 import android.content.Context;
 import android.text.TextUtils;
 
+import com.android.qizx.baselibrary.common.Constants;
+import com.android.qizx.baselibrary.util.LogUtil;
+import com.android.qizx.baselibrary.util.PreferencesHelper;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.qlzx.mylibrary.common.Constants;
-import com.qlzx.mylibrary.util.LogUtil;
-import com.qlzx.mylibrary.util.PreferencesHelper;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;

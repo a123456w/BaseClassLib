@@ -2,6 +2,7 @@ package com.android.qizx.baselibrary.widget;
 
 import android.content.Context;
 
+import android.support.v7.widget.LinearLayoutManager;
 import android.util.AttributeSet;
 
 /**

@@ -3,9 +3,9 @@ package com.android.qizx.baselibrary.util;
 import android.content.Context;
 import android.widget.ImageView;
 
+import com.android.qizx.baselibrary.R;
+import com.android.qizx.baselibrary.widget.GlideRoundTransform;
 import com.bumptech.glide.Glide;
-import com.qlzx.mylibrary.R;
-import com.qlzx.mylibrary.widget.GlideRoundTransform;
 
 import java.io.File;
 

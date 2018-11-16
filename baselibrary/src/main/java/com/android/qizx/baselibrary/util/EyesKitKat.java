@@ -18,7 +18,8 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.FrameLayout;
 
-import com.qlzx.mylibrary.R;
+
+import com.android.qizx.baselibrary.R;
 
 import java.lang.reflect.Field;
 

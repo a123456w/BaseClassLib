@@ -9,6 +9,8 @@ import com.android.qizx.baselibrary.util.NetConnectManager;
 import com.android.qizx.baselibrary.util.ToastUtil;
 import com.android.qizx.baselibrary.widget.LoadingLayout;
 
+import rx.Subscriber;
+
 
 /**
  * Created by 87901 on 2016/5/5.

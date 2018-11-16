@@ -1,5 +1,6 @@
 package com.android.qizx.baselibrary.widget.pullToRefresh;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
@@ -19,6 +20,7 @@ import android.view.animation.Animation;
 import android.widget.ImageView;
 
 import com.android.qizx.baselibrary.R;
+import com.lsjwzh.widget.materialloadingprogressbar.MaterialProgressDrawable;
 
 
 /**
@@ -278,6 +280,7 @@ public class GoogleCircleProgressView extends android.support.v7.widget.AppCompa
     /**
      * Update the background color of the mBgCircle image view.
      */
+    @SuppressLint("ResourceType")
     public void setBackgroundColor(@ColorRes int colorRes) {
         if (getBackground() instanceof ShapeDrawable) {
             final Resources res = getResources();

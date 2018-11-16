@@ -1,6 +1,7 @@
 package com.android.qizx.baselibrary.util;
 
 
+import org.greenrobot.eventbus.EventBus;
 
 /**
  * Created by 87901 on 2016/10/29.
