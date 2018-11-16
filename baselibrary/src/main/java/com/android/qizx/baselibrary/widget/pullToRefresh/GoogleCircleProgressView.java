@@ -17,7 +17,6 @@ import android.support.annotation.ColorRes;
 import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.view.animation.Animation;
-import android.widget.ImageView;
 
 import com.android.qizx.baselibrary.R;
 import com.lsjwzh.widget.materialloadingprogressbar.MaterialProgressDrawable;
