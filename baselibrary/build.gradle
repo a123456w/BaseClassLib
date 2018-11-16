@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 //apply plugin: 'com.neenbedankt.android-apt'
 
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.ningmengC101'
+group='com.github.a123456w'
 android {
     compileSdkVersion 27
     buildToolsVersion '27.0.3'
